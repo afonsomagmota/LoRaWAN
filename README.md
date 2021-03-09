@@ -1,4 +1,4 @@
-# LoRaWAN
+# Wireless Control System using LoRaWAN
 
 Get started in IoT using The Things Network, Thingspeak and Micropython.
 
